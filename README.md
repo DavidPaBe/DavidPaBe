@@ -20,6 +20,8 @@
 | 15:00 - 16:00 | Leng. de Interfaz | Leng. de Interfaz | Leng. de Interfaz | Leng. de Interfaz | Leng. de Interfaz |
 | 17:00 - 18:00 | Graficación       | Graficación       | Graficación       | Graficación       | Graficación       |
 
+```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
+```
