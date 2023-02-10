@@ -2,8 +2,6 @@
 
 - 🔭 Estudiante de Ingeniería en Sistemas Computacionales
 - 🌱 Futuro desarrollador...
-- 👯 Aspiro al desarrollo de Inteligencias Artificiales
-- 🤔 Y desarrollo de Videojuegos
 - 💬 Freelance
 - 📫 Egresado de la Preparatoria Federal Lázaro Cardenas
 - 😄 Y próximo egresado del Instituto Técnologico de Tijuana
