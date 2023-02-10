@@ -19,3 +19,7 @@
 | 14:00 - 15:00 | Taller de SO      | Taller de SO      | Taller de SO      | Taller de SO      | Taller de SO      |
 | 15:00 - 16:00 | Leng. de Interfaz | Leng. de Interfaz | Leng. de Interfaz | Leng. de Interfaz | Leng. de Interfaz |
 | 17:00 - 18:00 | Graficación       | Graficación       | Graficación       | Graficación       | Graficación       |
+
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
